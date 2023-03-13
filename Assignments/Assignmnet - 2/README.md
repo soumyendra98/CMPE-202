@@ -17,4 +17,4 @@ Draw a UML State Diagram for the vending machine and upload an image on canvas
 
 SOLUTION
 
-State Diagram Image - 
+State Diagram Image - https://github.com/soumyendra98/CMPE-202/blob/main/Assignments/Assignmnet%20-%202/Vending%20Machine.png
