@@ -5,4 +5,4 @@ upload an image on Canvas
 
 SOLUTION
 
-Class Diagram Image - 
+Class Diagram Image - https://github.com/soumyendra98/CMPE-202/blob/main/Assignments/Assignment%20-%203/Assignment%20-%203.png
