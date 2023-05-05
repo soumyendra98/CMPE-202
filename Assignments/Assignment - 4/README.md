@@ -35,6 +35,6 @@ Submit your solutions on Canvas
 
 SOLUTION
 
-Document Link -
+Document Link - https://github.com/soumyendra98/CMPE-202/blob/main/Assignments/Assignment%20-%204/CMPE-202%20Code%20Refactoring.pdf
 
-Java File Link - 
+Java File Link - https://github.com/soumyendra98/CMPE-202/blob/main/Assignments/Assignment%20-%204/CodeRefactoring.java
